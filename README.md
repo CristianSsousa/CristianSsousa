@@ -1,6 +1,6 @@
 # 💫 About Me:
-🔭 **Currently working on:** Della Volpe App  
-💬 **Ask me about:** React Native, Angular, and Java  
+🔭 **Currently working on:** IT - Bootcamp - Mercado Livre  
+💬 **Ask me about:** React Native, Angular, Golang and Java
 📫 **Contact me:** [cristian.sousa365@outlook.com](mailto:cristian.sousa365@outlook.com)  
 
 ---
